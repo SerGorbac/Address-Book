@@ -1,0 +1,17 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint --init"
+  },
+  "author": "Sergej Gorbacevskij",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.13.0"
+  },
+  "dependencies": {}
+}

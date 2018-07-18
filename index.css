@@ -1,0 +1,17 @@
+#form {
+  display: flex;
+  flex-flow: column;
+}
+
+.btn {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+span {
+  padding: 10px 20px;
+}
+
+.favorite-true {
+  background-color: yellow;
+}
